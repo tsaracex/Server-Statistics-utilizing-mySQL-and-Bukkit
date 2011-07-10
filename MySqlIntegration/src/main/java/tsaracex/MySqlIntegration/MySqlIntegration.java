@@ -21,7 +21,7 @@ public class MySqlIntegration extends JavaPlugin {
 	Logger log = Logger.getLogger("Minecraft");
 	final static String databaseName = "test";
 	final static String tableName = "server_statistics_tab";
-	final static String dbServerAddress = "74.91.112.17";
+	final static String dbServerAddress = "";
 	final static String serverUsername = "root";
 	final static String serverPassword = "";
 	final static String dbUsername = "root";
